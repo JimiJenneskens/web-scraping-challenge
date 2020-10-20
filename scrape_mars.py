@@ -85,8 +85,6 @@ def twitter_weather(browser):
     for tweet in tweets:
         spans = tweet.find_all("span")
         mars_weather = spans[4].get_text()
-        #Replacing all paragraph breaks
-        # weather = weather.replace('\n', " ")
         return mars_weather
 
 def mars_facts():
