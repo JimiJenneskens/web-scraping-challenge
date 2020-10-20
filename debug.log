@@ -1,0 +1,8 @@
+[1019/234238.100:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\jimi_\AppData\Local\Temp\scoped_dir8984_2134215810\Crashpad\attachments\1e4996de-2282-42cd-8f80-de85c560eed2: The system cannot find the path specified. (0x3)
+[1020/111902.299:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1020/113630.163:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1020/122814.030:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1020/122814.032:ERROR:exception_snapshot_win.cc(99)] thread ID 9112 not found in process
+[1020/122814.046:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1020/122814.046:ERROR:exception_snapshot_win.cc(99)] thread ID 8260 not found in process
+[1020/123824.559:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
